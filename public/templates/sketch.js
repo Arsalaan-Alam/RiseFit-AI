@@ -149,7 +149,7 @@ try{
 endButton.addEventListener('click', stopTimer)
 
 
-const musicUrl = '';
+const musicUrl = 'https://cdn.discordapp.com/attachments/837925621099266089/943573154037653564/Project_Name_online-audio-converter.com.mp3';
 
 const audio = new Audio(musicUrl);
 let isPlaying = 0;
