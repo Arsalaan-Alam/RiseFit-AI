@@ -18,4 +18,4 @@ Indeed these obstacles were tough and tedious but with the support, the motivati
 
 
 
-**ALL COPYRIGHTS RELATED TO RISEFIT AI BELONG TO ARSALAAN**
+**All copyrights related to RiseFit AI belong to Arsalaan.**
